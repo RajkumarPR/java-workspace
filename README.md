@@ -1,4 +1,5 @@
 # java-workspace
 
-Java8Samples
+java8samples
+
 aws-samples
